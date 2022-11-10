@@ -50,6 +50,7 @@ section nav{
     left: 0;
     right: 0;
     z-index: 100;
+    width:100vw;
 }
 
 section nav .logo{
